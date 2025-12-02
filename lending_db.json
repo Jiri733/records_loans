@@ -1,0 +1,42 @@
+{
+    "items": [
+        {
+            "item_id": "60daa455-2f39-4295-8d29-a033323fea3a",
+            "name": "Python kucha\u0159ka",
+            "inventory_number": "B101"
+        }
+    ],
+    "users": [
+        {
+            "user_id": "e6a58cd8-65e8-4dc5-a983-e43b4da732b4",
+            "name": "Karel Nov\u00e1k"
+        }
+    ],
+    "loans": [
+        {
+            "loan_id": "53882bad-dad0-45cc-ab70-35eed132cf64",
+            "item_id": "60daa455-2f39-4295-8d29-a033323fea3a",
+            "user_id": "e6a58cd8-65e8-4dc5-a983-e43b4da732b4",
+            "start_time": "2026-11-28 10:00",
+            "end_time": "2026-11-28 12:00",
+            "loan_type": "standard"
+        },
+        {
+            "loan_id": "3f41f904-38d0-436c-ab1b-5849c0cbbc63",
+            "item_id": "60daa455-2f39-4295-8d29-a033323fea3a",
+            "user_id": "e6a58cd8-65e8-4dc5-a983-e43b4da732b4",
+            "start_time": "2026-11-28 12:00",
+            "end_time": "2026-11-28 14:00",
+            "loan_type": "standard"
+        },
+        {
+            "loan_id": "b3251d7a-d71f-4090-ae15-003545d90aeb",
+            "item_id": "60daa455-2f39-4295-8d29-a033323fea3a",
+            "user_id": "0c4b6761-7b08-4768-9a8c-d85b16e0805d",
+            "start_time": "2026-11-28 15:00",
+            "end_time": "2026-11-28 16:00",
+            "note": "Pro intern\u00ed \u0161kolen\u00ed.",
+            "loan_type": "staff"
+        }
+    ]
+}
